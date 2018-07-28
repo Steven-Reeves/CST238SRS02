@@ -1,8 +1,8 @@
 # CST238SRS02
 Target Alarm Range
 
-Name:
+Name: Steven Reeves
 
-Notes: 
+Notes: Chose Interview option - All spec requirements included in .ppt document
 
-Issues:
+Issues: 
